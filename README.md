@@ -19,22 +19,22 @@ based on the database.<br />
 ###### 1. Define the question you want to answer<br />
 ###### 2. Obtain a Data<br />
 ###### 3. Prepare the Data<br />
-      a. Get acquainted with all the columns on your data set.<br />
-      b. Pay close attention to the units of measure used.<br />
+      a. Get acquainted with all the columns on your data set.
+      b. Pay close attention to the units of measure used.
       c. Imagine how these metrics would work together to help you make your business
-      recommendation.<br />
+      recommendation.
 ###### 4. Analyze the Data<br />
 ###### 5. Create a visualization using Plotly<br />
       a. Use whichever graphs you think will be the most prudent in visualizing the
-      answers to the project’s questions.<br />
-      b. Label the axes and data points sparingly and correctly.<br />
-      c. Upload the visualization to Chart Studio.<br />
+      answers to the project’s questions.
+      b. Label the axes and data points sparingly and correctly.
+      c. Upload the visualization to Chart Studio.
 ###### 6. Report the Data<br />
-      a. In a 500 to 800 words article, answer the research question.<br />
+      a. In a 500 to 800 words article, answer the research question.
       b. Upload the article to Medium and include all relevant visualizations in your article
-      (at least 3).<br />
+      (at least 3).
       c. Your article needs to be a balanced and objective account, with insights mostly
-      coming from your datasets.<br />
+      coming from your datasets.
 
 ## Dataset<br />
 ● You will be required to work with this dataset [https://bit.ly/MobileDataset] about the
